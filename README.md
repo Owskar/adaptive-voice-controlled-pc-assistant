@@ -239,30 +239,6 @@ RAM Usage
 
 ---
 
-## 📸 Screenshots
-
-### Home Screen
-
-Add image:
-
-```markdown
-![Home](screenshots/home.png)
-```
-
-### Voice Command Execution
-
-```markdown
-![Commands](screenshots/commands.png)
-```
-
-### Screenshot Feature
-
-```markdown
-![Screenshot](screenshots/screenshot.png)
-```
-
----
-
 ## 🧪 Testing
 
 Tested functionalities:
