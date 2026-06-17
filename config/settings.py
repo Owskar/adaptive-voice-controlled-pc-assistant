@@ -11,7 +11,7 @@ class Config:
 
     # Email Settings
     EMAIL_FROM = "oskarganbawale@gmail.com"
-    EMAIL_PASSWORD = "wdcr bcgg ycse nenl"
+    EMAIL_PASSWORD = "ocfj bswm nxzf grjq"
     SMTP_SERVER = "smtp.gmail.com"
     SMTP_PORT = 587
 

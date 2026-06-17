@@ -8,7 +8,7 @@ class AIServices:
         # Replace with your API key from Google AI Studio
         self.api_key = "YOUR_API_KEY"
         genai.configure(api_key=self.api_key)
-        self.model = genai.GenerativeModel("gemini-2.0-flash")
+        self.model = genai.GenerativeModel("gemini-3-flash-preview")
 
     def generate_gemini_content(self, prompt):
         try:

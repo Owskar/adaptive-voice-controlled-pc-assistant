@@ -68,6 +68,10 @@ class Assistant:
 
             elif "system status" in command:
                 response = self.system.get_status()
+                st.write(
+                            f"<div class='command-result'>{response}</div>",
+                            unsafe_allow_html=True,
+                        )
 
             elif "remind me to" in command:
                 reminder = command.split("remind me to")[-1].strip()
@@ -92,6 +96,10 @@ class Assistant:
 
             elif "news" in command:
                 response = self.news.get_latest_news()
+                st.write(
+                            f"<div class='command-result'>{response}</div>",
+                            unsafe_allow_html=True,
+                        )
 
             elif "screenshot" in command:
                 response = self.screenshot.take_screenshot()

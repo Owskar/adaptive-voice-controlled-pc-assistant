@@ -8365,3 +8365,276 @@
 2025-05-07 21:16:45,928 - assistant - INFO - Executing command: tell me about yourself
 2025-05-07 21:16:48,638 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
 2025-05-07 21:16:48,639 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-06-04 21:41:10,459 - assistant - INFO - Application started
+2025-06-04 21:41:23,534 - assistant - INFO - Recognized speech: open Notepad
+2025-06-04 21:41:23,557 - assistant - INFO - Executing command: open notepad
+2025-06-04 21:41:23,784 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-04 21:41:23,784 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-06-04 21:41:38,151 - assistant - WARNING - Could not understand audio
+2025-06-04 21:41:38,161 - assistant - INFO - Empty command received
+2025-06-04 21:41:44,367 - assistant - INFO - Recognized speech: search mobile
+2025-06-04 21:41:44,378 - assistant - INFO - Executing command: search mobile
+2025-06-04 21:41:49,961 - assistant - WARNING - Could not understand audio
+2025-06-04 21:41:49,972 - assistant - INFO - Empty command received
+2025-06-04 21:41:56,672 - assistant - INFO - Recognized speech: what is NLP
+2025-06-04 21:41:56,682 - assistant - INFO - Executing command: what is nlp
+2025-06-04 21:42:20,483 - assistant - INFO - Application started
+2025-06-04 21:42:42,626 - assistant - INFO - Recognized speech: in Kolhapur
+2025-06-04 21:42:42,637 - assistant - INFO - Executing command: in kolhapur
+2025-06-04 21:42:44,275 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-04 21:42:44,275 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-06-04 21:42:53,786 - assistant - INFO - Application started
+2025-06-04 21:43:04,222 - assistant - INFO - Recognized speech: weather in Kolhapur
+2025-06-04 21:43:04,232 - assistant - INFO - Executing command: weather in kolhapur
+2025-06-04 21:43:04,312 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-04 21:43:04,312 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-06-04 21:43:20,167 - assistant - INFO - Recognized speech: exit
+2025-06-04 21:43:20,182 - assistant - INFO - Executing command: exit
+2025-06-04 21:46:37,286 - assistant - INFO - Application started
+2025-06-04 21:46:45,224 - assistant - INFO - Recognized speech: send email to Samruddhi Patil
+2025-06-04 21:46:45,234 - assistant - INFO - Executing command: send email to samruddhi patil
+2025-06-04 21:47:01,692 - assistant - INFO - Recognized speech: exit
+2025-06-04 21:47:01,701 - assistant - INFO - Executing command: exit
+2025-06-04 21:48:34,041 - assistant - INFO - Recognized speech: send email to Samruddhi party saying hi
+2025-06-04 21:48:34,053 - assistant - INFO - Executing command: send email to samruddhi party saying hi
+2025-06-04 21:48:47,814 - assistant - INFO - Recognized speech: exit exit
+2025-06-04 21:48:47,824 - assistant - INFO - Executing command: exit exit
+2025-06-04 21:49:01,805 - assistant - INFO - Recognized speech: send email to Samruddhi Patil saying hi
+2025-06-04 21:49:01,816 - assistant - INFO - Executing command: send email to samruddhi patil saying hi
+2025-06-04 21:49:17,282 - assistant - WARNING - Could not understand audio
+2025-06-04 21:49:17,301 - assistant - INFO - Empty command received
+2025-06-04 21:49:21,165 - assistant - INFO - Recognized speech: exit
+2025-06-04 21:49:21,175 - assistant - INFO - Executing command: exit
+2025-06-04 21:50:10,045 - assistant - INFO - Recognized speech: take a screenshot
+2025-06-04 21:50:10,055 - assistant - INFO - Executing command: take a screenshot
+2025-06-04 21:50:24,872 - assistant - INFO - Recognized speech: increase brightness
+2025-06-04 21:50:24,885 - assistant - INFO - Executing command: increase brightness
+2025-06-04 21:50:31,928 - assistant - INFO - Recognized speech: increase brightness
+2025-06-04 21:50:31,938 - assistant - INFO - Executing command: increase brightness
+2025-06-04 21:50:40,748 - assistant - INFO - Recognized speech: decrease the brightness
+2025-06-04 21:50:40,763 - assistant - INFO - Executing command: decrease the brightness
+2025-06-04 22:16:15,285 - assistant - INFO - Application started
+2025-06-04 22:16:40,895 - assistant - INFO - Recognized speech: system status
+2025-06-04 22:16:40,907 - assistant - INFO - Executing command: system status
+2025-06-04 22:16:41,987 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-04 22:16:41,988 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-06-04 22:16:58,289 - assistant - WARNING - Could not understand audio
+2025-06-04 22:16:58,298 - assistant - INFO - Empty command received
+2025-06-04 22:17:04,104 - assistant - INFO - Recognized speech: weather in Kolhapur
+2025-06-04 22:17:04,113 - assistant - INFO - Executing command: weather in kolhapur
+2025-06-04 22:17:37,402 - assistant - WARNING - Could not understand audio
+2025-06-04 22:17:37,414 - assistant - INFO - Empty command received
+2025-06-04 22:17:42,324 - assistant - INFO - Recognized speech: exit
+2025-06-04 22:17:42,334 - assistant - INFO - Executing command: exit
+2025-06-04 22:23:13,666 - assistant - INFO - Application started
+2025-06-04 22:23:20,395 - assistant - INFO - Recognized speech: check system status
+2025-06-04 22:23:20,409 - assistant - INFO - Executing command: check system status
+2025-06-04 22:23:33,530 - assistant - WARNING - Could not understand audio
+2025-06-04 22:23:33,540 - assistant - INFO - Empty command received
+2025-06-04 22:23:38,258 - assistant - INFO - Recognized speech: exit
+2025-06-04 22:23:38,267 - assistant - INFO - Executing command: exit
+2025-06-04 22:24:12,693 - assistant - INFO - Application started
+2025-06-04 22:24:16,454 - assistant - INFO - Recognized speech: latest news
+2025-06-04 22:24:16,469 - assistant - INFO - Executing command: latest news
+2025-06-04 22:25:49,975 - assistant - INFO - Application started
+2025-06-04 22:25:59,714 - assistant - INFO - Recognized speech: type Oscar Gangoli
+2025-06-04 22:25:59,727 - assistant - INFO - Executing command: type oscar gangoli
+2025-06-04 22:25:59,915 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-04 22:25:59,915 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-06-04 22:26:16,031 - assistant - INFO - Recognized speech: mathematics
+2025-06-04 22:26:16,044 - assistant - INFO - Executing command: mathematics
+2025-06-04 22:26:40,886 - assistant - INFO - Application started
+2025-06-04 22:26:53,520 - assistant - INFO - Recognized speech: type Oscar gun bavale
+2025-06-04 22:26:53,531 - assistant - INFO - Executing command: type oscar gun bavale
+2025-06-04 22:26:53,743 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-04 22:26:53,744 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-06-04 22:27:04,932 - assistant - INFO - Recognized speech: type hello
+2025-06-04 22:27:04,943 - assistant - INFO - Executing command: type hello
+2025-06-04 22:27:11,754 - assistant - INFO - Recognized speech: close notepad
+2025-06-04 22:27:11,763 - assistant - INFO - Executing command: close notepad
+2025-06-04 22:27:18,890 - assistant - WARNING - Could not understand audio
+2025-06-04 22:27:18,900 - assistant - INFO - Empty command received
+2025-06-04 22:27:31,541 - assistant - INFO - Recognized speech: open Notepad
+2025-06-04 22:27:31,555 - assistant - INFO - Executing command: open notepad
+2025-06-04 22:27:39,989 - assistant - INFO - Recognized speech: type Oscar gun bavale
+2025-06-04 22:27:39,999 - assistant - INFO - Executing command: type oscar gun bavale
+2025-06-04 22:27:49,187 - assistant - INFO - Recognized speech: close notepad
+2025-06-04 22:27:49,198 - assistant - INFO - Executing command: close notepad
+2025-06-04 22:27:57,599 - assistant - WARNING - Could not understand audio
+2025-06-04 22:27:57,609 - assistant - INFO - Empty command received
+2025-06-04 22:28:09,924 - assistant - WARNING - Could not understand audio
+2025-06-04 22:28:09,939 - assistant - INFO - Empty command received
+2025-06-04 22:28:15,011 - assistant - INFO - Recognized speech: Net Application se
+2025-06-04 22:28:15,022 - assistant - INFO - Executing command: net application se
+2025-07-28 19:59:01,811 - assistant - INFO - Application started
+2025-07-28 19:59:27,029 - assistant - INFO - Recognized speech: Java code for addition of two numbers
+2025-07-28 19:59:27,047 - assistant - INFO - Executing command: java code for addition of two numbers
+2025-07-28 19:59:34,399 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-28 19:59:34,400 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-07-28 20:01:38,187 - assistant - INFO - Application started
+2026-01-15 00:28:07,542 - assistant - INFO - Application started
+2026-01-15 00:28:29,273 - assistant - INFO - Recognized speech: give me Java code of addition of two numbers
+2026-01-15 00:28:29,306 - assistant - INFO - Executing command: give me java code of addition of two numbers
+2026-01-15 00:28:29,671 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 00:28:29,671 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 00:28:29,762 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2026-01-15 00:28:29,765 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-01-15 00:28:29,844 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2026-01-15 00:30:13,974 - assistant - INFO - Application started
+2026-01-15 00:30:37,484 - assistant - INFO - Recognized speech: give me Java code of addition of two numbers
+2026-01-15 00:30:37,521 - assistant - INFO - Executing command: give me java code of addition of two numbers
+2026-01-15 00:30:37,843 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 00:30:37,844 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 00:31:24,240 - assistant - INFO - Application started
+2026-01-15 00:31:56,524 - assistant - INFO - Recognized speech: give me Java code of addition of two numbers
+2026-01-15 00:31:56,558 - assistant - INFO - Executing command: give me java code of addition of two numbers
+2026-01-15 00:31:57,230 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 00:31:57,231 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 00:34:39,374 - assistant - INFO - Application started
+2026-01-15 00:34:52,444 - assistant - INFO - Recognized speech: give me Java code of addition of two numbers
+2026-01-15 00:34:52,484 - assistant - INFO - Executing command: give me java code of addition of two numbers
+2026-01-15 00:34:52,838 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 00:34:52,839 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 00:36:29,309 - assistant - INFO - Application started
+2026-01-15 00:36:41,202 - assistant - INFO - Recognized speech: Java code of addition of two numbers
+2026-01-15 00:36:41,245 - assistant - INFO - Executing command: java code of addition of two numbers
+2026-01-15 00:36:46,303 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 00:36:46,303 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 00:37:51,203 - assistant - INFO - Application started
+2026-01-15 00:38:03,068 - assistant - INFO - Recognized speech: who are you tell me about yourself
+2026-01-15 00:38:03,098 - assistant - INFO - Executing command: who are you tell me about yourself
+2026-01-15 00:38:09,050 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 00:38:09,051 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 00:38:31,576 - assistant - INFO - Application started
+2026-01-15 00:38:41,161 - assistant - INFO - Recognized speech: who are you
+2026-01-15 00:38:41,203 - assistant - INFO - Executing command: who are you
+2026-01-15 00:38:42,952 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 00:38:42,953 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 00:38:57,186 - assistant - INFO - Recognized speech: tell me about yourself in detail
+2026-01-15 00:38:57,211 - assistant - INFO - Executing command: tell me about yourself in detail
+2026-01-15 01:00:29,258 - assistant - INFO - Application started
+2026-01-15 01:00:50,681 - assistant - WARNING - Could not understand audio
+2026-01-15 01:00:50,717 - assistant - INFO - Empty command received
+2026-01-15 01:00:54,390 - assistant - WARNING - Could not understand audio
+2026-01-15 01:00:54,428 - assistant - INFO - Empty command received
+2026-01-15 01:00:57,773 - assistant - WARNING - Could not understand audio
+2026-01-15 01:00:57,798 - assistant - INFO - Empty command received
+2026-01-15 01:01:05,728 - assistant - INFO - Recognized speech: play music on YouTube FIR Dil Aaya
+2026-01-15 01:01:05,756 - assistant - INFO - Executing command: play music on youtube fir dil aaya
+2026-01-15 01:01:05,908 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 01:01:05,910 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 01:01:12,247 - assistant - WARNING - Could not understand audio
+2026-01-15 01:01:12,272 - assistant - INFO - Empty command received
+2026-01-15 01:01:15,999 - assistant - INFO - Recognized speech: stop music
+2026-01-15 01:01:16,027 - assistant - INFO - Executing command: stop music
+2026-01-15 01:01:21,338 - assistant - WARNING - Could not understand audio
+2026-01-15 01:01:21,365 - assistant - INFO - Empty command received
+2026-01-15 01:01:33,919 - assistant - INFO - Recognized speech: search on YouTube Phir Le Aaya Dil
+2026-01-15 01:01:33,941 - assistant - INFO - Executing command: search on youtube phir le aaya dil
+2026-01-15 01:01:53,850 - assistant - INFO - Recognized speech: YouTube open
+2026-01-15 01:01:53,880 - assistant - INFO - Executing command: youtube open
+2026-01-15 01:02:03,893 - assistant - WARNING - Could not understand audio
+2026-01-15 01:02:03,922 - assistant - INFO - Empty command received
+2026-01-15 01:02:07,463 - assistant - WARNING - Could not understand audio
+2026-01-15 01:02:07,490 - assistant - INFO - Empty command received
+2026-01-15 01:02:13,856 - assistant - INFO - Recognized speech: take a screenshot
+2026-01-15 01:02:13,886 - assistant - INFO - Executing command: take a screenshot
+2026-01-15 01:02:29,513 - assistant - WARNING - Could not understand audio
+2026-01-15 01:02:29,537 - assistant - INFO - Empty command received
+2026-01-15 01:02:38,236 - assistant - INFO - Recognized speech: check system status
+2026-01-15 01:02:38,265 - assistant - INFO - Executing command: check system status
+2026-01-15 01:02:52,400 - assistant - INFO - Recognized speech: who is Narendra Modi
+2026-01-15 01:02:52,424 - assistant - INFO - Executing command: who is narendra modi
+2026-01-15 01:03:31,622 - assistant - INFO - Application started
+2026-01-15 01:03:58,710 - assistant - INFO - Recognized speech: explain me mpfi engine in IC engine
+2026-01-15 01:03:58,742 - assistant - INFO - Executing command: explain me mpfi engine in ic engine
+2026-01-15 01:04:09,239 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 01:04:09,240 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 01:05:34,533 - assistant - INFO - Recognized speech: what is your name
+2026-01-15 01:05:34,555 - assistant - INFO - Executing command: what is your name
+2026-01-15 01:05:36,406 - assistant - ERROR - Speech error: run loop already started
+2026-01-15 01:05:55,195 - assistant - INFO - Application started
+2026-01-15 01:06:17,154 - assistant - INFO - Recognized speech: open Notepad
+2026-01-15 01:06:17,189 - assistant - INFO - Executing command: open notepad
+2026-01-15 01:06:17,542 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 01:06:17,544 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 01:06:23,713 - assistant - INFO - Recognized speech: close notepad
+2026-01-15 01:06:23,745 - assistant - INFO - Executing command: close notepad
+2026-01-15 01:06:41,636 - assistant - WARNING - Could not understand audio
+2026-01-15 01:06:41,661 - assistant - INFO - Empty command received
+2026-01-15 01:06:47,279 - assistant - WARNING - Could not understand audio
+2026-01-15 01:06:47,311 - assistant - INFO - Empty command received
+2026-01-15 01:06:50,876 - assistant - INFO - Recognized speech: open camera
+2026-01-15 01:06:50,904 - assistant - INFO - Executing command: open camera
+2026-01-15 01:07:05,489 - assistant - INFO - Recognized speech: open vs code
+2026-01-15 01:07:05,524 - assistant - INFO - Executing command: open vs code
+2026-01-15 01:07:25,705 - assistant - WARNING - Could not understand audio
+2026-01-15 01:07:25,730 - assistant - INFO - Empty command received
+2026-01-15 01:07:30,662 - assistant - WARNING - Could not understand audio
+2026-01-15 01:07:30,691 - assistant - INFO - Empty command received
+2026-01-15 01:07:34,109 - assistant - WARNING - Could not understand audio
+2026-01-15 01:07:34,136 - assistant - INFO - Empty command received
+2026-01-15 01:07:41,238 - assistant - INFO - Recognized speech: any language barrier
+2026-01-15 01:07:41,268 - assistant - INFO - Executing command: any language barrier
+2026-01-15 01:08:11,392 - assistant - INFO - Application started
+2026-01-15 01:08:54,876 - assistant - INFO - Recognized speech: play music Phir Le Aaya Dil
+2026-01-15 01:08:54,900 - assistant - INFO - Executing command: play music phir le aaya dil
+2026-01-15 01:08:55,018 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 01:08:55,019 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 01:09:03,776 - assistant - INFO - Recognized speech: dielectric material
+2026-01-15 01:09:03,802 - assistant - INFO - Executing command: dielectric material
+2026-01-15 01:09:34,624 - assistant - INFO - Application started
+2026-01-15 01:14:18,644 - assistant - INFO - Recognized speech: tell me about yourself
+2026-01-15 01:14:18,672 - assistant - INFO - Executing command: tell me about yourself
+2026-01-15 01:14:25,499 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 01:14:25,500 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 09:18:38,897 - assistant - INFO - Application started
+2026-01-15 09:49:47,594 - assistant - INFO - Recognized speech: search Virat Kohli
+2026-01-15 09:49:47,630 - assistant - INFO - Executing command: search virat kohli
+2026-01-15 09:49:47,914 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 09:49:47,916 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 09:49:59,562 - assistant - INFO - Recognized speech: take a screenshot
+2026-01-15 09:49:59,585 - assistant - INFO - Executing command: take a screenshot
+2026-01-15 09:50:21,156 - assistant - WARNING - Could not understand audio
+2026-01-15 09:50:21,191 - assistant - INFO - Empty command received
+2026-01-15 09:50:25,630 - assistant - WARNING - Could not understand audio
+2026-01-15 09:50:25,655 - assistant - INFO - Empty command received
+2026-01-15 09:50:36,267 - assistant - INFO - Recognized speech: play music Khalasi
+2026-01-15 09:50:36,298 - assistant - INFO - Executing command: play music khalasi
+2026-01-15 09:50:43,171 - assistant - WARNING - Could not understand audio
+2026-01-15 09:50:43,198 - assistant - INFO - Empty command received
+2026-01-15 09:50:47,110 - assistant - WARNING - Could not understand audio
+2026-01-15 09:50:47,133 - assistant - INFO - Empty command received
+2026-01-15 09:50:56,248 - assistant - WARNING - Could not understand audio
+2026-01-15 09:50:56,276 - assistant - INFO - Empty command received
+2026-01-15 09:50:59,375 - assistant - WARNING - Could not understand audio
+2026-01-15 09:50:59,394 - assistant - INFO - Empty command received
+2026-01-15 09:51:08,374 - assistant - INFO - Recognized speech: stop music
+2026-01-15 09:51:08,397 - assistant - INFO - Executing command: stop music
+2026-01-15 09:51:14,300 - assistant - WARNING - Could not understand audio
+2026-01-15 09:51:14,322 - assistant - INFO - Empty command received
+2026-01-15 09:51:24,214 - assistant - INFO - Recognized speech: give me Java code of addition of two numbers
+2026-01-15 09:51:24,244 - assistant - INFO - Executing command: give me java code of addition of two numbers
+2026-01-15 09:52:18,535 - assistant - INFO - Application started
+2026-01-15 09:52:30,383 - assistant - INFO - Recognized speech: open Notepad
+2026-01-15 09:52:30,407 - assistant - INFO - Executing command: open notepad
+2026-01-15 09:52:30,708 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 09:52:30,709 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 09:52:51,892 - assistant - WARNING - Could not understand audio
+2026-01-15 09:52:51,917 - assistant - INFO - Empty command received
+2026-01-15 09:52:55,331 - assistant - WARNING - Could not understand audio
+2026-01-15 09:52:55,351 - assistant - INFO - Empty command received
+2026-01-15 09:53:24,543 - assistant - INFO - Recognized speech: send email content content
+2026-01-15 09:53:24,569 - assistant - INFO - Executing command: send email content content
+2026-01-15 09:54:00,176 - assistant - INFO - Application started
+2026-01-15 09:54:19,745 - assistant - INFO - Recognized speech: system status
+2026-01-15 09:54:19,765 - assistant - INFO - Executing command: system status
+2026-01-15 09:54:20,852 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 09:54:20,852 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-01-15 09:54:35,189 - assistant - INFO - Recognized speech: weather in Kolhapur
+2026-01-15 09:54:35,218 - assistant - INFO - Executing command: weather in kolhapur
+2026-01-15 09:54:49,861 - assistant - INFO - Recognized speech: get latest news
+2026-01-15 09:54:49,884 - assistant - INFO - Executing command: get latest news
+2026-01-15 09:56:10,039 - assistant - INFO - Recognized speech: exit
+2026-01-15 09:56:10,062 - assistant - INFO - Executing command: exit
+2026-05-28 18:43:29,297 - assistant - INFO - Application started
